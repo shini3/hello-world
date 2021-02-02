@@ -1,2 +1,3 @@
 # hello-world
-shini3 no first project in GitHub.
+shini3's first project in GitHub.
+2021/02/02.
